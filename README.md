@@ -1,24 +1,30 @@
-# 💫 About Me:
-🔭 I'm currently looking for a sandwich course for my 3rd years of my engeener degree<br>🌱 I’m currently learning C#<br>💬 Ask me about my future<br>
+# Hey, I'm Noah 👋
 
+Engineering student at **JUNIA ISEN** — looking for a software development / AI apprenticeship for my 3rd year.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nrmd.noah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-normand-27a927380/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:noahnormand33@gmail.com) 
+I like building things people actually use.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+## What I've been working on
 
-# 🚀 Featured Project : [SUPER MARIO ISEN]
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1e5ff270-4d1b-4e03-b3b6-862a4ee454db" alt="Project Preview" width="100%">
-</p>
+🍿 **[WhatWeWatch](https://github.com/noahnormand/WhatWeWatch)** — A mobile app where friends swipe on movies Tinder-style and find what to watch together. Built with React Native, Firebase & TMDB API. [Try the APK](https://github.com/noahnormand/WhatWeWatch/releases/tag/v1.0.0)
 
----
+🎮 **[Super Mario ISEN](https://github.com/noahnormand/Super-Mario-ISEN---Noah-Martin-Bastien-Elliott---2025)** — A full platformer game with 9 levels, save system, and scoring. Built from scratch in C with SDL2.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=noahnormand&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=noahnormand&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=noahnormand&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🏎️ **[NeedForSpice](https://github.com/noahnormand/NeedForSpice)** — A Java project built at JUNIA.
 
----
-[![](https://visitcount.itsvg.in/api?id=noahnormand&icon=0&color=0)](https://visitcount.itsvg.in)
+📬 **[LettreBoite](https://github.com/noahnormand/LettreBoite)** — A JavaScript web app.
+
+## Tech I work with
+
+```
+Languages    C · Java · Python · JavaScript · TypeScript · PHP
+Mobile       React Native · Expo
+Backend      Firebase · Node.js
+Tools        Git · SDL2 · Arduino
+```
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-normand-27a927380/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahnormand33@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrmd.noah)
